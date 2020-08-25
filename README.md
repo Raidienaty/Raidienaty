@@ -36,5 +36,5 @@
 ---
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Raidienaty's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Raidienaty&show_icons=true&hide_border=true&count_private=true" />
-<img align="right" alt="Raidienaty's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raidienaty"/>
+<img align="left" alt="Raidienaty's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Raidienaty&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
+<img align="right" alt="Raidienaty's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raidienaty&layout=compact"/>
