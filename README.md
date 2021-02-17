@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on starting into freelance with Discord Bots!
 - 🌱 I’m currently learning better programming practices
-- 🥅 2020 Goals: Start a career in freelance
+- 🥅 2021 Goals: Start a career in freelance
 - ⚡ Fun fact: I love math and working on projects
 
 <br />
