@@ -2,10 +2,9 @@
 
 ## I'm a Student, Developer, and Learner!
 
-- 🔭 I’m currently working on through my junior year in college
-- 🚧 My lead project is a messaging application for MacOS, Linux and Windows
-- 🌱 I’m currently learning better programming practices
-- 🥅 2021 Goals: Start a career in freelance
+- 🔭 I’m currently working on through my senior year in college and have a full time job as a Systems Engineer
+- 🌱 I’m always learning better programming practices
+- 🥅 2021 Goals: Keep enjoying life and projects
 - ⚡ Fun fact: I love math and working on projects
 
 <br />
