@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="Raidienaty's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Raidienaty&show_icons=true&hide_border=true&theme=synthwave&count_private=true&include_all_commits=true" />
+<img align="left" alt="Raidienaty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Raidienaty&show_icons=true&hide_border=true&theme=synthwave&count_private=true&include_all_commits=true" />
 
 <br />
 <br />
