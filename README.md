@@ -2,10 +2,10 @@
 
 ## I'm a Student, Developer, and Learner!
 
-- 🔭 I’m currently working on through my senior year in college and have a full time job as a Systems Engineer
-- 🌱 I’m always learning better programming practices
-- 🥅 2021 Goals: Keep enjoying life and projects
-- ⚡ Fun fact: I love math and working on projects
+- 🔭 I’m currently working on some fun projects while working as a Software Engineer
+- 🌱 I’m always learning anything I can get my hands on
+- 🥅 2022 Goal: Make more mistakes!
+- ⚡ Fun fact: I am a big cubing enthusiast!
 
 <br />
 
