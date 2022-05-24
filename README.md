@@ -1,6 +1,6 @@
 ### Hi there, I'm Raidienaty 👋
 
-## I'm a Student, Developer, and Learner!
+## I'm a Learner, Developer, and a Challenge Seeker!
 
 - 🔭 I’m currently working on some fun projects while working as a Software Engineer
 - 🌱 I’m always learning anything I can get my hands on
