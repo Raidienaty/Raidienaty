@@ -1,11 +1,11 @@
 ### Hi there, I'm Raidienaty 👋
 
-## I'm a Learner, Developer, and a Challenge Seeker!
+## I'm a Software Engineer, Linux enthusiast, and professional fool!
 
 - 🔭 I’m currently working on some fun projects while working as a Software Engineer
 - 🌱 I’m always learning anything I can get my hands on
 - 🥅 2022 Goal: Make more mistakes!
-- ⚡ Fun fact: I am a big cubing enthusiast!
+- ⚡ Fun fact: I love archery!
 
 <br />
 
@@ -17,7 +17,6 @@
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Flutter" width="26px" src="https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
@@ -37,5 +36,3 @@
 
 <br />
 <br />
-
-<img align="left" alt="Raidienaty's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raidienaty&layout=compact&langs_count=10"/>
